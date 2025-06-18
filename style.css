@@ -1,0 +1,8 @@
+body{background-image:url("src/mount.jpg");
+background-attachment:fixed;
+background-size: cover;
+background-position: center;
+background-repeat: no-repeat;}
+
+p{color:red;
+    font-family: sans-serif;}
